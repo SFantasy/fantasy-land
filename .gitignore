@@ -1,1 +1,3 @@
 node_modules/
+.rap
+ruff_modules/
