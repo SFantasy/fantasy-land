@@ -1,0 +1,14 @@
+{
+    "name": "hello-ruff",
+    "version": "0.1.0",
+    "description": "hello, ruff",
+    "author": "fantasy",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "ruff-mbd-v1": "^2.0.4",
+            "button-gpio": "^1.0.1",
+            "lcd1602-pcf8574a-hd44780": "^0.1.6"
+        }
+    }
+}
